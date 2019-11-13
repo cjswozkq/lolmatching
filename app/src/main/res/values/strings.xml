@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lolmatching</string>
+    <string name="kakao_app_key">e334c04e2926a03545dc3a2efa7f1ce0</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="favor">Button</string>
+</resources>
